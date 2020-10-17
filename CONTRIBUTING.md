@@ -1,4 +1,4 @@
-## Contributing
+## Contributing :
 
 The website source is in the `source` branch. The site is served from `master`.
 
