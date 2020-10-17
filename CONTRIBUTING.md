@@ -1,4 +1,4 @@
-## Contributing -
+## Contributing --
 
 The website source is in the `source` branch. The site is served from `master`.
 
@@ -14,7 +14,7 @@ When you add a new page, remember to add the page id to the respective category 
 
 If you wish to help develop the website, first you'll need to install the necessary dependencies for Docusaurus.
 
-Clone this repo and
+Clone this repo and start
 ```
 git clone https://github.com/ml5js/ml5-website
 cd ml5js.github.io.git
@@ -29,6 +29,7 @@ npm run start
 ```
 
 This will start a server that reloads when changes are made to the website source code.
+save you work first.
 
 To build the website run this script from the `website/` directory:
 
